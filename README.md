@@ -121,3 +121,9 @@ automate cross-sell recommendations and lift AOV from €58 → €66.
 ## Tech Stack
 
 `Python` · `Pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `Seaborn`
+
+---
+
+## Acknowledgment of Tools
+
+AI tools (e.g., ClaudeAI) were used selectively to support code debugging and structure refinement; all analytical design, methodology selection, and interpretation were completed independently.

@@ -5,6 +5,7 @@
 > through churn modeling, customer segmentation, and financial feasibility analysis.
 
 **Author:** Rasheed A. Albel
+**Date:** December 2025
 
 ---
 
